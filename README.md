@@ -1,0 +1,2 @@
+# ideas
+python web scraping
